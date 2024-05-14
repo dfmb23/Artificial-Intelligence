@@ -1,0 +1,50 @@
+\documentclass{report}
+
+\usepackage[utf8]{inputenc} % For proper encoding of characters
+\usepackage{graphicx} % For including images
+\usepackage{amsmath} % For mathematical expressions
+\usepackage{amssymb} % For additional mathematical symbols
+
+\begin{document}
+
+% Title page
+\title{Informe de LaTex}
+\author{Diego Merino y
+        Andy Cruz}
+\date{\today}
+
+\maketitle
+
+% Abstract (optional)
+\begin{abstract}
+  Conceptos basicos de LaTex.
+\end{abstract}
+
+% Table of contents (optional)
+´%\tableofcontents
+
+% Body of the report
+\section{Significado de LaTex}
+
+  Latex es un sistema de creación de textos, especialmente orientado para cubrir las necesidades de aquellos técnicos y científicos para los que un procesador de textos común, como Word, no es suficiente. Facilita mucho la escritura de fórmulas y otro tipo de elementos.
+
+\section{Concepto General}
+
+ LaTeX es un sistema de composición tipográfica de alta calidad. Incluye características especialmente diseñadas para la producción de documentación científica y ténica. LaTeX es el estándar para publicación de documentos científicos pero puede usarse para cualquier tipo de publicación.
+
+\section{Objetivos de LaTex}
+
+ LATEX es un software libre que sirve para la EDICIÓN DE TEXTOS CIENTÍFICOS. Permite la automatización de tareas que normalmente resultan problemáticas; generación de índices; numeración de figuras, tablas y ecuaciones, estructura del documento, etc.
+
+\section{Conclusion}
+
+TEX Es sin duda el formato de tratamiento de textos científicos por excelencia. Es tan completo y polivalente que se puede considerarse un lenguaje de programación. TEX es un lenguaje de marcas como lo es el HTML. Su misión es únicamente la pre- paración de textos de alta calidad para publicaciones de todo todo tipo.
+
+% References
+%\section*{References}
+  
+ \section*{Imagenes}
+
+ \includegraphics[width=0.9\textwidth]{download.png}
+ 
+\end{document}
