@@ -1,0 +1,118 @@
+\documentclass{report}
+
+\usepackage[utf8]{inputenc} % For proper encoding of characters
+\usepackage{graphicx} % For including images
+\usepackage{amsmath} % For mathematical expressions
+\usepackage{amssymb} % For additional mathematical symbols
+
+\begin{document}
+
+% Title page
+\title{Machine Learning - Inteligencia Artificial en la Medicina}
+\author{Diego Merino}
+\date{\today}
+
+\maketitle
+% Abstract (optional)
+\begin{align}
+INTRODUCCION A LA I.A 
+\end{align}
+    
+% Body of the report
+\section{Historia de la Inteligencia Artificial}
+Dando aparicion en el año 1943 por Warren McCulloch y Walter Pitts al presentar un modelo de neuronas artificiales, consideradas la primer inteligencia artificial aun cuando no se usaba el termino antes mencionado. 
+
+Se conoce a la Inteligencia Artificial como una de las ramas de la Informatica que se basa en la creacion de algoritmos, lineas de codigos para su uso en sistemas que permitan realizar actividades de uso comun con accion humana, tareas como el razonamiento de actividades y la toma de decisiones.
+
+Usandose actualmente en varios campos del diario vivir la Inteligencia Artificial se a combinado con grandes cantidades de datos con el procesamiento rapido e interativo al usar algoritmos inteligentes dando asi un permiso al software de aprender automaticamente los patrones que dan caracteristica a los datos. 
+
+Appearing in 1943 by Warren McCulloch and Walter Pitts when they presented a model of artificial neurons, considered the first artificial intelligence even when the aforementioned term was not used. 
+
+Artificial Intelligence is known as one of the branches of Computer Science that is based on the creation of algorithms, lines of codes for use in systems that allow common use activities to be carried out with human action, tasks such as reasoning of activities and decision making.
+
+Currently being used in various fields of daily life, Artificial Intelligence has been combined with large amounts of data with fast and interactive processing by using intelligent algorithms, thus giving the software permission to automatically learn the patterns that give characteristics to the data.
+
+
+ \includegraphics[width=0.9\textwidth]{ia.jpg}
+
+\section{Que es la Robótica}
+El termino usado por su creador Isaac Asimov quien definio a la robotica como la ciencia que estudia a los robots, creo a su vez las conocidas tres leyes de la robótica, los cuales han sido usados en la ciencia ficción al imaginar robots visitando diversos mundos tomando el poder o de manera mas simple aliviando las labores domesticas de los humanos. 
+
+Sin embargo la robótica en la actualidad no se asemeja a la ficcion, puesto que el uso de mecanismos robiticos en el diario vivir se basa en ayudar a los humanos en las actividades del hogar, laborares y agricultura. 
+
+Existiendo en la actualidad una gran cantidad de maquinas que se usan en las fabricas de ensamblaje, el hogar como mecanismos de limpieza o en la agricultura como drones para vigilancia y supervicion. 
+
+Con un sin numero de actividades que se realizan con la robotica en el ambito medico su uso es similar, ayudando a la realizacion de cirugias de alto riesgo, operando de manera manual brazos roboticos que perfeccionan y facilitan la interaccion de doctor a paciente, permitiendo a los profesionales de la salud realizar cirugias con mas precision y de manera mas eficaz. 
+
+The term used by its creator Isaac Asimov who defined robotics as the science that studies robots, in turn created the well-known three laws of robotics, which have been used in science fiction when imagining robots visiting various worlds taking power or more simply by alleviating the domestic tasks of humans. 
+
+However, robotics today does not resemble fiction, since the use of robotic mechanisms in daily life is based on helping humans in household, work and agricultural activities. 
+
+There are currently a large number of machines that are used in assembly factories, the home as cleaning mechanisms or in agriculture as drones for surveillance and supervision. 
+
+With a number of activities that are carried out with robotics in the medical field, its use is similar, helping to perform high-risk surgeries, manually operating robotic arms that perfect and facilitate the interaction from doctor to patient, allowing Health professionals perform surgeries with more precision and more effectively.
+
+ \includegraphics[width=0.9\textwidth]{robotica.jpg}
+
+\section{Robótica en la Medicina}
+
+Tras la creacion del primer robot cirujano conocido como "Arthrobot" el cual fue desarrollado en Vancouver, Canada en el año 1983 en un proyecto que revolucionaria el campo medico liderado por el Dr. James McEwen y el Dr. Geof Auchinlek, quienes trabajando en colaboracion con el equipo de cirujanos en cirugia ortopédica liderado por el Dr. Brian Day. 
+
+Haciendo asi su aparicion en el año de 1985 con un nuevo robot para uso medico, PUMA 560. Un brazo robótico usado en la industria utilizado para incrementar la precisión en la realización de biopsias cerebrales mediante la punción, el cual se implemento una aguja de biopsia. 
+
+La robótica a demostrado ser de gran uso en la medicina, siendo una herramienta valiosa para mejorar la precision y eficiencia en el ambito de cirugia asistida y rehabilitacion, los avances de la misma estan llevando a la medicina mas lejos de lo que se pudo imaginar en el campo medico, dando asi mejores resultados y mayor comodidad tanto como para los medicos que con los pacientes. 
+
+La cirugia con asistencia robótica es usada para las intervenciones complejas y de dificil acceso, permitiendo que al realizar su uso se a logrado grandes avances en cirugias dificultosas, tales como la cirugia de cancer de esofago, de estomago y de recto, en la cirugia bariatrica de pacientes con obesidad morvida y en la cirugia de higado, vias biliares, pancreas y glandulas endocrinas. 
+
+La cirugia robótica permite a los medicos no solo realizar cirugias complicadas sino que procesos quirurgicos mas precisos y flexibles y el control de tecnicas convencionales. 
+
+After the creation of the first surgeon robot known as "Arthrobot" which was developed in Vancouver, Canada in 1983 in a project that revolutionized the medical field led by Dr. James McEwen and Dr. Geof Auchinlek, who working in collaboration with the team of orthopedic surgeons led by Dr. Brian Day. 
+
+Thus making its appearance in 1985 with a new robot for medical use, PUMA 560. A robotic arm used in industry used to increase the precision in performing brain biopsies through puncture, which implemented a biopsy needle. . 
+
+Robotics has proven to be of great use in medicine, being a valuable tool to improve precision and efficiency in the field of assisted surgery and rehabilitation, its advances are taking medicine further than could be imagined in the medical field, thus giving better results and greater comfort both for doctors and for patients. 
+
+Robotic-assisted surgery is used for complex and difficult-to-access interventions, allowing great advances to be achieved in difficult surgeries, such as esophageal, stomach and rectal cancer surgery, and bariatric surgery. of patients with morbid obesity and in surgery of the liver, bile ducts, pancreas and endocrine glands. 
+
+Robotic surgery allows doctors to not only perform complicated surgeries but more precise and flexible surgical processes and control of conventional techniques.
+
+
+ \includegraphics[width=0.9\textwidth]{puma.jpg}
+
+ 
+\section{Protesis Medicas}
+
+
+Siendo nombrada en el siglo XVI por el cirujano Frances Ambrosie Paré, quien diseño la primer protesis funcional la cual fue exclusiva para los soldados que salian del campo de batalla. 
+
+Sin embargo la interaccion de protesis robotica fue en Rusia en el año de 1960. 
+
+Las protesis medicas del tipo robóticas son dispositivos artificiales diseñadas para el remplazo o la mejora de una parte del cuerpo humano que han sido retiradas, amputadas o perdidade su funcion motriz. 
+
+Las protesis usan tecnologia avanzada como sensores, actuadores y sistemas de control para replicar o amplificar las capacidades faltantes, dando asi una definicion de las protesis medicas como un elemento artificial dotado de cierta autonomia e inteligencia capaz de realizar una funcion de una parte faltante del cuerpo .
+
+Dejando asi en la actualidad cuatro diferentes tipos de protesis bionicas. Las cuales son: Protesis Bionica de Piernas, Protesis Bionicas de Manos, Protesis Bionicas de Brazos y Protesis Bionicas de Rodilla. 
+
+Actualmente el desarrollo de protesis medicas se han perfeccionado, a tal punto de usarse no solo de manera mecanica, sino de manera neuronal.
+
+
+Being named in the 16th century by the surgeon Frances Ambrosie Paré, who designed the first functional prosthesis which was exclusive for soldiers leaving the battlefield. 
+
+However, the interaction of robotic prosthetics was in Russia in the year 1960. 
+
+Robotic-type medical prostheses are artificial devices designed to replace or improve a part of the human body that has been removed, amputated or lost its motor function. 
+
+Prostheses use advanced technology such as sensors, actuators and control systems to replicate or amplify missing capabilities, thus giving a definition of medical prostheses as an artificial element endowed with certain autonomy and intelligence capable of performing a function of a missing part of the body. .
+
+Thus leaving currently four different types of bionic prostheses. Which are: Bionic Leg Prostheses, Bionic Hand Prostheses, Bionic Arm Prostheses and Bionic Knee Prostheses. 
+
+Currently, the development of medical prostheses has been perfected, to the point of being used not only mechanically, but also neuronally.
+
+
+ \includegraphics[width=0.9\textwidth]{protesis.jpg}
+
+% References
+%\section*{References}
+
+ 
+\end{document}
